@@ -17,9 +17,9 @@ Preicision. The number of true positives divided by the number of true positives
 Recall. The number of true positives divided by the number of true positives plus the number of false negatives.
 
 
-![feature extraction](feature_extraction_process.png)
+![feature extraction](data description/feature_extraction_process.png)
 
-![sensor matrix](sensor_matrix.png)
+![sensor matrix](data description/sensor_matrix.png)
 
 Data: 
 

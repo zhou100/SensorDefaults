@@ -17,6 +17,10 @@ Preicision. The number of true positives divided by the number of true positives
 Recall. The number of true positives divided by the number of true positives plus the number of false negatives.
 
 
+[feature extraction](feature_extration_process.png)
+
+[sensor matrix](sensor_matrix.png)
+
 Data: 
 
 UCI Machine Learning dataset: condition monitoring of hydraulic systems Data Set 
